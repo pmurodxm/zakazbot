@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Product nomi",
+    "sap": "sap kod yoki tavar id raqammi",
+    "ai": "aytilish nomi"
+  },
+  {
+    "id": 2,
+    "name": "Product nomi",
+    "sap": "sap kod yoki tavar id raqammi",
+    "ai": "aytilish nomi"
+  }
+]
